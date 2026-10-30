@@ -1,0 +1,2 @@
+.start-button{margin-left:auto;padding:8px 12px;border:1px solid #50f5e066;border-radius:7px;background:#50f5e018;color:var(--cyan);font-size:10px;font-weight:800;white-space:nowrap}.start-button:hover{background:#50f5e02b}
+@media(max-width:500px){.wait-banner{flex-wrap:wrap}.start-button{margin-left:auto}}

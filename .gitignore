@@ -1,0 +1,9 @@
+node_modules/
+outputs/site/
+.env.local
+.env.*.local
+outputs/
+dist/
+.env
+.env.*
+!.env.example
